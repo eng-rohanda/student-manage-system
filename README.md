@@ -1,4 +1,4 @@
-# student-manage-system
+# student-management-system
 Developed a student management system using python and JSON for storing and managing student records.
 # Features
 - Add students
